@@ -1,0 +1,4 @@
+Group,Output
+Slogans(Pithy & Evocative),"• ""Rooted in Earth. Wrapped in Gold.""(Highlights the Terracotta/Gold aesthetic and natural ingredients)• ""Mindful Sweetness, Ancient Soul.""(Addresses the health-conscious aspect while honoring tradition)• ""Pure Ingredients. Pure Magic.""(Directly references the brand name and the promise of purity)"
+Our Story(For Login Page),"""Born from a desire to reclaim tradition without the guilt, MishTee-Magic crafts artisanal Indian sweets using only pure A2 milk and organic ingredients. We blend the earthy warmth of heritage recipes with modern wellness, ensuring every bite is as healthy as it is divine."""
+Collections(Categorization),• The Terracotta Trove(Signature traditional recipes and assortment boxes)• The Gilded Grain(Low-gluten delicacies made with millets or nut flours)• The Pure A2 Palette(Milk-based classics like Kalakand or Sandesh)• The Lite-Luxe Series(Low-sugar and stevia-sweetened premium options)
